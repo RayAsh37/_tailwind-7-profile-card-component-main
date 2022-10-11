@@ -62,7 +62,10 @@ function App() {
             Frontend Mentor
           </a>
           . Coded by&nbsp;
-          <a href='#' className='text-yellow-100'>
+          <a
+            href='https://github.com/RayAsh37/_tailwind-7-profile-card-component-main'
+            className='text-yellow-100'
+          >
             {' '}
             Ashray
           </a>
